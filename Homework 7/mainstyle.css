@@ -1,0 +1,15 @@
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+    font-size: larger;
+}
+
+.myClass{
+    font-size: large;
+    color: coral;
+}
